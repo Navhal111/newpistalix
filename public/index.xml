@@ -2,74 +2,74 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>pistalix</title>
-    <link>https://diplomat-sally-43785.netlify.com/</link>
+    <link>/</link>
     <description>Recent content on pistalix</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://diplomat-sally-43785.netlify.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>404</title>
-      <link>https://diplomat-sally-43785.netlify.com/404/</link>
+      <link>/404/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://diplomat-sally-43785.netlify.com/404/</guid>
+      <guid>/404/</guid>
       <description></description>
     </item>
     
     <item>
       <title>About Us</title>
-      <link>https://diplomat-sally-43785.netlify.com/aboutus/</link>
+      <link>/aboutus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://diplomat-sally-43785.netlify.com/aboutus/</guid>
+      <guid>/aboutus/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact US</title>
-      <link>https://diplomat-sally-43785.netlify.com/contact/</link>
+      <link>/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://diplomat-sally-43785.netlify.com/contact/</guid>
+      <guid>/contact/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pistalix</title>
-      <link>https://diplomat-sally-43785.netlify.com/python/</link>
+      <link>/python/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://diplomat-sally-43785.netlify.com/python/</guid>
+      <guid>/python/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Services</title>
-      <link>https://diplomat-sally-43785.netlify.com/services/</link>
+      <link>/services/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://diplomat-sally-43785.netlify.com/services/</guid>
+      <guid>/services/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TV</title>
-      <link>https://diplomat-sally-43785.netlify.com/tv/</link>
+      <link>/tv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://diplomat-sally-43785.netlify.com/tv/</guid>
+      <guid>/tv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Table</title>
-      <link>https://diplomat-sally-43785.netlify.com/table/</link>
+      <link>/table/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://diplomat-sally-43785.netlify.com/table/</guid>
+      <guid>/table/</guid>
       <description></description>
     </item>
     

@@ -3,45 +3,45 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://diplomat-sally-43785.netlify.com/404/</loc>
+    <loc>/404/</loc>
   </url>
   
   <url>
-    <loc>https://diplomat-sally-43785.netlify.com/aboutus/</loc>
+    <loc>/aboutus/</loc>
   </url>
   
   <url>
-    <loc>https://diplomat-sally-43785.netlify.com/categories/</loc>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://diplomat-sally-43785.netlify.com/contact/</loc>
+    <loc>/contact/</loc>
   </url>
   
   <url>
-    <loc>https://diplomat-sally-43785.netlify.com/python/</loc>
+    <loc>/python/</loc>
   </url>
   
   <url>
-    <loc>https://diplomat-sally-43785.netlify.com/services/</loc>
+    <loc>/services/</loc>
   </url>
   
   <url>
-    <loc>https://diplomat-sally-43785.netlify.com/tv/</loc>
+    <loc>/tv/</loc>
   </url>
   
   <url>
-    <loc>https://diplomat-sally-43785.netlify.com/table/</loc>
+    <loc>/table/</loc>
   </url>
   
   <url>
-    <loc>https://diplomat-sally-43785.netlify.com/tags/</loc>
+    <loc>/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://diplomat-sally-43785.netlify.com/</loc>
+    <loc>/</loc>
     <priority>0</priority>
   </url>
   
