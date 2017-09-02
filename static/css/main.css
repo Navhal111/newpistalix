@@ -72,7 +72,80 @@
   h3{
     font-size: 18px;
   }
+  .header_img {
+      background-color: #000
+  }
 
+  /*.logo1,
+  .logo2 {
+      width: 190px;
+      margin: 4px 470px -20px
+  }
+
+  .logo2 {
+      margin: -250px 530px -21px
+  }
+
+  .logo3,
+  .logo4 {
+      width: 190px;
+      margin: -261px 472px -46px
+  }
+
+  .logo4 {
+      margin: -266px 410px 35px
+  }
+
+  .logo {
+      display: none
+  }*/
+  /*.logo1,
+  .logo2 {
+      width: 190px;
+      margin: 0 470px 35px
+  }
+
+  .logo2 {
+      margin: -250px 530px 35px
+  }
+
+  .logo3,
+  .logo4 {
+      width: 190px;
+      margin: -250px 470px 35px
+  }
+
+  .logo4 {
+      margin: -216px 410px 35px
+  }
+
+  .logo {
+      display: none
+  }*/
+
+  .logo1,
+  .logo2 {
+      width: 190px;
+      margin: 0 470px 35px
+  }
+
+  .logo2 {
+      margin: -250px 450px 35px
+  }
+
+  .logo3,
+  .logo4 {
+      width: 190px;
+      margin: -250px 470px 35px
+  }
+
+  .logo4 {
+      margin: -216px 482px 35px
+  }
+
+  .logo {
+      display: none
+  }
   .overflow{
     overflow: hidden;
   }
@@ -548,8 +621,10 @@ ul.sub-menu {
   position: relative;
 }
 .logoimage{
-  margin-bottom: 50px;
+ margin-right: 120px;
+ margin-bottom: 120px;
 }
+
 #home-slider .main-slider {
   position: relative;
   height: 450px;
@@ -562,7 +637,9 @@ ul.sub-menu {
   left: 0;
   width: 450px;
 }
-
+#header figure{
+  align:r;
+}
 .animate-in .slide-text {
   -webkit-animation: fadeInLeftBig 700ms cubic-bezier(0.190,1.000,0.220,1.000) 200ms both;
   animation: fadeInLeftBig 700ms cubic-bezier(0.190,1.000,0.220,1.000) 200ms both;
@@ -614,7 +691,7 @@ ul.sub-menu {
 
 #home-slider .slider-birds2 {
   position: absolute;
-  right: -15px;
+  right: -32px;
   bottom: 35px;
 }
 

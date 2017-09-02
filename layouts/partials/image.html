@@ -1,19 +1,41 @@
 
-    <div class="container">
-        <div class="row">
-            <div class="main-slider">
-                <div class="slide-text">
-                  {{ $products := getJSON "/data/header/header.json" }}
-                    <img src=/images/logo/logo-text.png class= "logo tagline" alt="PISTALIX_logo_text">
-                    <h1 style="color:#f7f9fc">{{ $products.title }}</h1>
-                    <p style="color:#f7f9fc">{{ $products.des }}</p>
-                </div>
-                <img src="/images/mobile_logo.png" class="slider-house logoimage delay-02s logo" alt=" " id ="logo">
-                <img src="/images/home/slider/logo_down.png" class="slider-hill logoimage full-logo delay-02s logo1" alt="slider image" id ="logo1">
-                <img src="/images/home/slider/logo_up.png" class="slider-house logoimage full-logo delay-02s logo2" alt="slider image" id ="logo2">
-                <img src="/images/home/slider/logo_left.png" class="slider-birds1 logoimage full-logo delay-02s logo3" alt="slider image" id ="logo3">
-                <img src="/images/home/slider/logo_right.png" class="slider-birds2 logoimage full-logo delay-02s logo4" alt="slider image" id ="logo4">
+<div class="container">
+    <div class="row">
+        <div class="main-slider">
+            <div class="slide-text">
+              {{ $products := getJSON "/data/header/header.json" }}
+                <img src=/images/logo/logo-text.png class= "logo tagline" alt="PISTALIX_logo_text">
+                <h1 style="color:#f7f9fc">{{ $products.title }}</h1>
+                <p style="color:#f7f9fc">{{ $products.des }}</p>
             </div>
-        </div>
+                <!-- <img src="/images/mobile_logo.png" class="slider-house logoimage delay-02s logo" alt=" " id ="logo">
+                <img src="/images/home/slider/logo_down.png" class=" logoimage full-logo delay-02s logo3" alt="slider image" id ="logo3">
+                <img src="/images/home/slider/logo_up.png" class=" logoimage full-logo delay-02s logo1" alt="slider image" id ="logo1">
+                <img src="/images/home/slider/logo_left.png" class=" logoimage full-logo delay-02s logo4" alt="slider image" id ="logo4">
+                <img src="/images/home/slider/logo_right.png" class="logoimage full-logo delay-02s logo2" alt="slider image" id ="logo2"> -->
+                <!-- <figure class="animated fadeInDown delay-02s logo">
+                    <a href="http://www.pistalix.com"><img src="/images/logo/mobile_logo.png" alt="" ></a>
+                </figure>
+                <figure class="animated fadeInDown full-logo delay-02s logo1">
+                    <a href="http://www.pistalix.com"><img src=/images/logo/logo_up.png alt="" style="width: 190px;" ></a>
+                </figure>
+                <figure class="animated fadeInDown full-logo delay-04s logo2">
+                    <a href="http://www.pistalix.com"><img src=/images/logo/logo_right.png alt="" style="width: 190px;"></a>
+                </figure>
+                <figure class="animated fadeInDown full-logo delay-06s logo3">
+                    <a href="http://www.pistalix.com"><img src=/images/logo/logo_down.png alt="" style="width: 190px;"></a>
+                </figure>
+                <figure class="animated fadeInDown full-logo delay-07s logo4">
+                    <a href="http://www.pistalix.com"><img src=/images/logo/logo_left.png alt="" style="width: 190px;" ></a>
+                </figure> -->
+                <!-- > -->
+                 <img src="/images/mobile_logo.png" class="slider-birds1 delay-02s logo" alt=" " style="width: 200px;" id ="logo">
+
+                <img src="/images/home/slider/logo_down.png" class="slider-hill  logoimage  full-logo delay-02s logo3" style="width: 190px;" alt="slider image" >
+                <img src="/images/home/slider/logo_up.png" class=" slider-house logoimage full-logo delay-04s logo1" style="width: 190px;" alt="slider image" >
+                <img src="/images/home/slider/logo_left.png" class="slider-birds1  logoimage full-logo delay-06s logo4" style="width: 190px;" alt="slider image" >
+                <img src="/images/home/slider/logo_right.png" class="slider-birds2 logoimage   full-logo delay-08s logo2" style="width: 190px;" alt="slider image">
+</div>
+</div>
     </div>
     <div class="preloader"><i class="fa fa-sun-o fa-spin"></i></div>

@@ -72,6 +72,33 @@
   h3{
     font-size: 18px;
   }
+  .header_img {
+      background-color: #000
+  }
+
+  .logo1,
+  .logo2 {
+      width: 190px;
+      margin: 4px 470px -20px
+  }
+
+  .logo2 {
+      margin: -250px 530px -21px
+  }
+
+  .logo3,
+  .logo4 {
+      width: 190px;
+      margin: -261px 472px -46px
+  }
+
+  .logo4 {
+      margin: -266px 410px 35px
+  }
+
+  .logo {
+      display: none
+  }
 
   .overflow{
     overflow: hidden;
@@ -548,7 +575,8 @@ ul.sub-menu {
   position: relative;
 }
 .logoimage{
-  margin-bottom: 50px;
+  height: 50%;
+  width: 50%;
 }
 #home-slider .main-slider {
   position: relative;

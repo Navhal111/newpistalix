@@ -107,6 +107,11 @@
 	.full-logo{ display:none; }
 	.header{ padding:40px;}
 	.social-link{ margin-left:0px;}
+	#mainlogo{
+		/*margin:110px 40px 23px 454px*/
+
+		margin:10px 0px 0px 0px
+	}
 	.form{ margin:0}
 	.c-logo-part ul li{ display:block;}
 	.Portfolio-box{  max-width:300px !important; width:96.4% !important; margin:0 !important}
