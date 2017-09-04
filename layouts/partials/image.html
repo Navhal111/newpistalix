@@ -4,9 +4,10 @@
         <div class="main-slider">
             <div class="slide-text">
               {{ $products := getJSON "/data/header/header.json" }}
-                <img src="{{ .Site.BaseURL }}images/logo/logo-text.png" class= "logo tagline" alt="PISTALIX_logo_text">
+                <img src="{{ .Site.BaseURL }}images/logo/logo-text.png" class= "tagline" alt="PISTALIX_logo_text">
                 <h1 style="color:#f7f9fc">{{ $products.title }}</h1>
                 <p style="color:#f7f9fc">{{ $products.des }}</p>
+                <!-- <img src="{{ .Site.BaseURL }}images/mobile_logo.png" class="slider-birds1 delay-02s logo" alt=" " style="width: 200px; margin-bo:50px" > -->
             </div>
                 <!-- <img src="/images/mobile_logo.png" class="slider-house logoimage delay-02s logo" alt=" " id ="logo">
                 <img src="/images/home/slider/logo_down.png" class=" logoimage full-logo delay-02s logo3" alt="slider image" id ="logo3">
@@ -29,7 +30,7 @@
                     <a href="http://www.pistalix.com"><img src=/images/logo/logo_left.png alt="" style="width: 190px;" ></a>
                 </figure> -->
                 <!-- > -->
-                 <img src="{{ .Site.BaseURL }}images/mobile_logo.png" class="slider-birds1 delay-02s logo" alt=" " style="width: 200px; margin-right:50px" >
+                  <img src="{{ .Site.BaseURL }}images/mobile_logo.png" class="slider-birds1 animated fadeInDown delay-02s logo" alt=" " style="width: 200px; margin-right:13%;" >
 
                 <img src="{{ .Site.BaseURL }}images/home/slider/logo_down.png" class="slider-hill  logoimage   full-logo delay-02s logo3" style="width: 190px;" alt="slider image" >
                 <img src="{{ .Site.BaseURL }}images/home/slider/logo_up.png" class=" slider-house logoimage full-logo delay-04s logo1" style="width: 190px;" alt="slider image" >
