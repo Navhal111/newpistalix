@@ -652,8 +652,8 @@ ul.sub-menu {
 }
 
 .animate-in .slider-hill {
-  -webkit-animation: bounceInDown 1000ms ease-in-out 200ms both;
-  animation: bounceInDown 1000ms ease-in-out 200ms both;
+  -webkit-animation: fadeInDown 1000ms ease-in-out 1000ms both;
+  animation: fadeInDown 1000ms ease-in-out 1000ms both;
 }
 
 #home-slider .slider-house {
@@ -663,8 +663,8 @@ ul.sub-menu {
 }
 
 .animate-in .slider-house {
-  -webkit-animation: bounceInDown 500ms ease-in-out 800ms both;
-  animation: bounceInDown 500ms ease-in-out 800ms both;
+  -webkit-animation: fadeInDown 500ms ease-in-out 200ms both;
+  animation: fadeInDown 500ms ease-in-out 200ms both;
 }
 
 #home-slider .slider-sun {
@@ -674,8 +674,8 @@ ul.sub-menu {
 }
 
 .animate-in .slider-sun {
-  -webkit-animation: scaleIn 500ms ease-in-out 1200ms both;
-  animation: scaleIn 500ms ease-in-out 1200ms both;
+  -webkit-animation: fadeInDown 500ms ease-in-out 1200ms both;
+  animation: fadeInDown 500ms ease-in-out 1200ms both;
 }
 
 #home-slider .slider-birds1 {
@@ -685,8 +685,8 @@ ul.sub-menu {
 }
 
 .animate-in .slider-birds1 {
-  -webkit-animation: fadeInLeft 500ms ease-in-out 1200ms both;
-  animation: fadeInLeft 500ms ease-in-out 1200ms both;
+  -webkit-animation: fadeInDown 500ms ease-in-out 1400ms both;
+  animation: fadeInDown 500ms ease-in-out 1400ms both;
 }
 
 #home-slider .slider-birds2 {
@@ -696,8 +696,8 @@ ul.sub-menu {
 }
 
 .animate-in .slider-birds2 {
-  -webkit-animation: fadeInRight 500ms ease-in-out 1200ms both;
-  animation: fadeInRight 500ms ease-in-out 1200ms both;
+  -webkit-animation: fadeInDown 500ms ease-in-out 600ms both;
+  animation: fadeInDown 500ms ease-in-out 600ms both;
 }
 
 #home-slider h1{
