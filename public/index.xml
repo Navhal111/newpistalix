@@ -2,74 +2,74 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>pistalix</title>
-    <link>https://diplomat-sally-43785.netlify.com/</link>
+    <link>https://pistalix.netlify.com/</link>
     <description>Recent content on pistalix</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://diplomat-sally-43785.netlify.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pistalix.netlify.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>404</title>
-      <link>https://diplomat-sally-43785.netlify.com/404/</link>
+      <link>https://pistalix.netlify.com/404/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://diplomat-sally-43785.netlify.com/404/</guid>
+      <guid>https://pistalix.netlify.com/404/</guid>
       <description></description>
     </item>
     
     <item>
       <title>About Us</title>
-      <link>https://diplomat-sally-43785.netlify.com/aboutus/</link>
+      <link>https://pistalix.netlify.com/aboutus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://diplomat-sally-43785.netlify.com/aboutus/</guid>
+      <guid>https://pistalix.netlify.com/aboutus/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact US</title>
-      <link>https://diplomat-sally-43785.netlify.com/contact/</link>
+      <link>https://pistalix.netlify.com/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://diplomat-sally-43785.netlify.com/contact/</guid>
+      <guid>https://pistalix.netlify.com/contact/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pistalix</title>
-      <link>https://diplomat-sally-43785.netlify.com/python/</link>
+      <link>https://pistalix.netlify.com/python/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://diplomat-sally-43785.netlify.com/python/</guid>
+      <guid>https://pistalix.netlify.com/python/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Services</title>
-      <link>https://diplomat-sally-43785.netlify.com/services/</link>
+      <link>https://pistalix.netlify.com/services/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://diplomat-sally-43785.netlify.com/services/</guid>
+      <guid>https://pistalix.netlify.com/services/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TV</title>
-      <link>https://diplomat-sally-43785.netlify.com/tv/</link>
+      <link>https://pistalix.netlify.com/tv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://diplomat-sally-43785.netlify.com/tv/</guid>
+      <guid>https://pistalix.netlify.com/tv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Table</title>
-      <link>https://diplomat-sally-43785.netlify.com/table/</link>
+      <link>https://pistalix.netlify.com/table/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://diplomat-sally-43785.netlify.com/table/</guid>
+      <guid>https://pistalix.netlify.com/table/</guid>
       <description></description>
     </item>
     
