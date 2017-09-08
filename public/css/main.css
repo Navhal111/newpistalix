@@ -76,76 +76,31 @@
       background-color: #000
   }
 
-  /*.logo1,
-  .logo2 {
-      width: 190px;
-      margin: 4px 470px -20px
-  }
-
-  .logo2 {
-      margin: -250px 530px -21px
-  }
-
-  .logo3,
-  .logo4 {
-      width: 190px;
-      margin: -261px 472px -46px
-  }
-
-  .logo4 {
-      margin: -266px 410px 35px
-  }
-
-  .logo {
-      display: none
-  }*/
-  /*.logo1,
-  .logo2 {
-      width: 190px;
-      margin: 0 470px 35px
-  }
-
-  .logo2 {
-      margin: -250px 530px 35px
-  }
-
-  .logo3,
-  .logo4 {
-      width: 190px;
-      margin: -250px 470px 35px
-  }
-
-  .logo4 {
-      margin: -216px 410px 35px
-  }
-
-  .logo {
-      display: none
-  }*/
-
   .logo1,
   .logo2 {
       width: 190px;
-      margin: 0 470px 35px
+      margin: 10px 471px -2px
   }
 
   .logo2 {
-      margin: -250px 450px 35px
+      margin: -267px 538px 34px
   }
 
   .logo3,
   .logo4 {
       width: 190px;
-      margin: -250px 470px 35px
+      margin: -287px 473px -458px
   }
 
   .logo4 {
-      margin: -216px 482px 35px
+      margin: -208px 409px 36px
   }
 
   .logo {
       display: none
   }
+
+
   .overflow{
     overflow: hidden;
   }
@@ -627,7 +582,7 @@ ul.sub-menu {
 
 #home-slider .main-slider {
   position: relative;
-  height: 450px;
+  height: 400px;
 }
 
 #home-slider .slide-text{
@@ -645,55 +600,55 @@ ul.sub-menu {
   animation: fadeInLeftBig 700ms cubic-bezier(0.190,1.000,0.220,1.000) 200ms both;
 }
 
-#home-slider .slider-hill {
+/*#home-slider .slider-hill {
   position: absolute;
   right: 0;
   bottom: 50px;
-}
+}*/
 
 .animate-in .slider-hill {
   -webkit-animation: fadeInDown 1000ms ease-in-out 1000ms both;
   animation: fadeInDown 1000ms ease-in-out 1000ms both;
 }
 
-#home-slider .slider-house {
+/*#home-slider .slider-house {
   position: absolute;
   right: 5px;
   bottom: 20px;
-}
+}*/
 
 .animate-in .slider-house {
   -webkit-animation: fadeInDown 500ms ease-in-out 200ms both;
   animation: fadeInDown 500ms ease-in-out 200ms both;
 }
 
-#home-slider .slider-sun {
+/*#home-slider .slider-sun {
   position: absolute;
   right: 365px;
   bottom: 100px;
-}
+}*/
 
 .animate-in .slider-sun {
   -webkit-animation: fadeInDown 500ms ease-in-out 1200ms both;
   animation: fadeInDown 500ms ease-in-out 1200ms both;
 }
 
-#home-slider .slider-birds1 {
+/*#home-slider .slider-birds1 {
   position: absolute;
   right:  30px;
   bottom: 35px;
-}
+}*/
 
 .animate-in .slider-birds1 {
   -webkit-animation: fadeInDown 500ms ease-in-out 1400ms both;
   animation: fadeInDown 500ms ease-in-out 1400ms both;
 }
 
-#home-slider .slider-birds2 {
+/*#home-slider .slider-birds2 {
   position: absolute;
   right: -32px;
   bottom: 35px;
-}
+}*/
 
 .animate-in .slider-birds2 {
   -webkit-animation: fadeInDown 500ms ease-in-out 600ms both;
