@@ -2774,10 +2774,10 @@ p{
   border-radius: 100%;
   margin: 10px 0;
 }
-/*@font-face {
+@font-face {
     font-family: logofonts;
     src: url(fonts/GMEXOO.otf);
-}*/
+}
 .letterDrop {
   position: relative;
   color: #06010d;
