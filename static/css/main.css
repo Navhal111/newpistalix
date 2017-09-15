@@ -582,7 +582,7 @@ ul.sub-menu {
 
 #home-slider .main-slider {
   position: relative;
-  height: 400px;
+  height: 450px;
 }
 
 #home-slider .slide-text{
@@ -2774,10 +2774,16 @@ p{
   border-radius: 100%;
   margin: 10px 0;
 }
+/*@font-face {
+    font-family: logofonts;
+    src: url(fonts/GMEXOO.otf);
+}*/
 .letterDrop {
   position: relative;
   color: #06010d;
   display: inline-block;
+  font-family: logofonts;
+  font-size: 50px;
   text-transform: uppercase;
   transform: rotateX(-90deg);
   animation: letterDrop 1.2s ease 1 normal forwards;
