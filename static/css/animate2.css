@@ -110,8 +110,8 @@ and (max-device-width : 480px) {
 	{
 		top:14%;
 		left: 57%;
-		height: 25.5px;
-		width: 22px;
+		height: 15px;
+		width: 15px;
 	}
 	.ios
 	{
@@ -505,8 +505,8 @@ and (max-device-width : 768px)
 	{
 		top:25%;
 		left: 57%;
-		height: 22.5px;
-		width: 22px;
+		height: 15px;
+		width: 15px;
 	}
 	.ios
 	{
@@ -567,8 +567,8 @@ and (max-device-width : 768px) {
 	{
 		top:28%;
 		left: 57%;
-		height: 22.5px;
-		width: 22px;
+		height: 15px;
+		width: 15px;
 	}
 	.ios
 	{
@@ -629,8 +629,8 @@ and (max-device-width : 600px)  {
 	{
 		top:30%;
 		left: 57%;
-		height: 22.5px;
-		width: 22px;
+		height: 15px;
+		width: 15px;
 	}
 	.ios
 	{
