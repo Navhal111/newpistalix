@@ -52,7 +52,9 @@
     });
   };
 })(jQuery);
-$("#logo").letterDrop();
+
+$('#logo').css("display","none");
+setTimeout(function(){ $('#logo').css("display","block"); alert("Hello");$("#logo").letterDrop(); }, 4000);
 
 jQuery(function($) {'use strict';
 
